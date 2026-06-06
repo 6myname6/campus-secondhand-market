@@ -1,0 +1,29 @@
+# Maven target directories
+target/
+client/target/
+server/target/
+
+# Compiled class files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Uploaded files
+uploads/
+
+# Built artifacts
+dist/*.jar
+dist/logs/
+
+# OS files
+*.DS_Store
+Thumbs.db
